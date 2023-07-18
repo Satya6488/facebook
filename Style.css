@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    border: solid 0px black;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f2f3;
+}
+.text{
+    border: solid 0px black;
+    height: 80vh;
+    width: 60%;
+}
+.box{
+    border: solid 0px black;
+    height: 80vh;
+    width: 40%;
+}
+.text h1{
+    color: blue;
+    font-size: 70px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 255, 0.185);
+    padding-top: 10%;
+    font-family: sans-serif;
+    padding-left: 25%;
+}
+.text p{
+    font-size: xx-large;
+    font-family: sans-serif;
+    padding-left: 25%;
+}
+.box1{
+    border: solid 0px black;
+    height: 50vh;
+    width: 60%;
+    margin-top: 5%;
+    margin-left: 10%;
+    box-shadow: 7px 7px 4px rgba(128, 128, 128, 0.274);
+    background-color: white;
+}
+input{
+    border: solid 1px black;
+    height: 40px;
+    width: 80%;
+    margin: 3%; 
+    border-radius: 7px;
+}
+.for{
+    border: solid 0px black;
+    height: 40px;
+    width: 80%;
+    margin: 3%;
+}
+.for a{
+     padding-left: 80px;
+     text-decoration: none;
+     
+}
+.for a:hover{
+    text-decoration: underline;
+}
+
+.new{
+    border: solid 0px black;
+    height: 40px;
+    width: 40%;
+    margin-top: 10%;
+    margin-left: 30%;
+    background-color: greenyellow;
+    color: white;
+    border-radius: 8px;
+}
+.new a{
+    text-decoration: none;
+}
+.in{
+    background-color: blue;
+    color: white;
+}
+.para1{
+    margin-top: 5%;
+    margin-left: 15%;
+    color: black;
+}
+.para1 a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
